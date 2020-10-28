@@ -30,17 +30,17 @@ En revenant à votre bureau après la pause déjeuner, vous trouvez un post-it c
 
 En fin de journée, vous recevez ce mail d’Alexandra :
 
-*Hello,
+*Hello,*
 
-Encore moi ! Lola vient de m’appeler (OC Pizza). Lors de la présentation du dossier de spécifications fonctionnelles qui est prévue, elle aimerait bien aborder la question de la solution technique. Je l’ai prévenue qu’en termes de timing, ce ne sera pas possible  de présenter un dossier de spécifications techniques pour ce jalon, mais qu’on lui donnera une orientation.
+*Encore moi ! Lola vient de m’appeler (OC Pizza). Lors de la présentation du dossier de spécifications fonctionnelles qui est prévue, elle aimerait bien aborder la question de la solution technique. Je l’ai prévenue qu’en termes de timing, ce ne sera pas possible  de présenter un dossier de spécifications techniques pour ce jalon, mais qu’on lui donnera une orientation.*
 
-Peux-tu donc inclure dans ta présentation l’annonce de la solution technique avec une courte argumentation.
+*Peux-tu donc inclure dans ta présentation l’annonce de la solution technique avec une courte argumentation.*
 
-D’ailleurs, je te laisse statuer si ce serait plutôt du développement “from scratch” ou bien s’il vaut mieux partir sur la base d’un CMS e-commerce.
+*D’ailleurs, je te laisse statuer si ce serait plutôt du développement “from scratch” ou bien s’il vaut mieux partir sur la base d’un CMS e-commerce.*
 
-Merci !
+*Merci !*
 
-Alexandra*
+*Alexandra*
 
 ## Livrables attendus
 * Un document (PDF) de spécifications fonctionnelles comprenant :
